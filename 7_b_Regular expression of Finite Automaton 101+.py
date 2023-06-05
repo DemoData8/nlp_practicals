@@ -1,13 +1,11 @@
 
-print("\n __By Mazhar Solkar \n")
-
 def FA(s): 
     #if the length is less than 3 then it can't be accepted, Therefore end the process.
     if len(s) < 3:
         return "Rejected"
     #first three characters are fixed. Therefore, checking them using index
-    if s[0] == '1':
-        if s[1] == '0':
+    if (s[0] == '1'):
+        if (s[1] == '0'):
             if s[2] == '1':
                 # After index 2 only "1" can appear. Therefore break the process if any other character is detected
                 for i in range(3, len(s)):

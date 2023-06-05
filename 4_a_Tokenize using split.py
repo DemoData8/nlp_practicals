@@ -1,4 +1,3 @@
-print("__By Mazhar Solkar")
 
 text = """ This tool is an a beta stage. Alexa developers can use Get Metrics API to
 seamlessly analyse metric. It also supports custom skill model, prebuilt Flash Briefing

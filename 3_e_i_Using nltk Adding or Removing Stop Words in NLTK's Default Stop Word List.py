@@ -1,6 +1,4 @@
 
-print("\n __By Mazhar Solkar \n")
-
 import nltk
 from nltk.corpus import stopwords
 # nltk.download('stopwords')

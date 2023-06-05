@@ -1,5 +1,4 @@
 
-print("\n __By Mazhar Solkar \n")
 
 import nltk
 from nltk import tokenize

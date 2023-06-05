@@ -2,8 +2,6 @@
 #python -m spacy download en_core_web_sm
 #python -m spacy download en
 
-print("\n __By Mazhar Solkar \n")
-
 import spacy
 import nltk
 from nltk.tokenize import word_tokenize

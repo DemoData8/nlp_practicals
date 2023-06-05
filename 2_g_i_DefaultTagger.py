@@ -1,6 +1,4 @@
 
-print("\n __By Mazhar Solkar \n")
-
 import nltk
 from nltk.tag import DefaultTagger
 exptagger = DefaultTagger('NN')

@@ -1,5 +1,4 @@
 
-print("\n __By Mazhar Solkar \n")
 
 # Loading Libraries
 from nltk.tag import UnigramTagger

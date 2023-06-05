@@ -1,6 +1,4 @@
 
-print("|\n __By Mazhar Solkar \n")
-
 #creating and printing a dictionay by mapping word with its properties
 thisdict = {
     "brand": "Ford",

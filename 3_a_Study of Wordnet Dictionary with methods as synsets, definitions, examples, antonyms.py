@@ -1,9 +1,6 @@
 '''WordNet provides synsets which is the collection of synonym words also called
 “lemmas”'''
 
-print("\n__By Mazhar Solkar \n")
-
-import nltk
 from nltk.corpus import wordnet
 
 print(wordnet.synsets("computer"))

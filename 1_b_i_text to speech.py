@@ -1,8 +1,7 @@
 from playsound import playsound
 from gtts import gTTS
-mytext = "Welcome to Natural Language programming"
-language = "en"
-myobj = gTTS(text=mytext, lang=language, slow=False)
+
+myobj = gTTS(text="Welcome to Natural Language programming", lang="en", slow=False)
 myobj.save("myfile.mp3")
 playsound("myfile.mp3")
 

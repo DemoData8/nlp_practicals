@@ -2,8 +2,6 @@
 # pip install inltk
 # pip install tornado==4.5.3
 
-print("\n __By Mazhar Solkar \n\n")
-
 from inltk.inltk import setup
 setup('hi')
 from inltk.inltk import get_similar_sentences

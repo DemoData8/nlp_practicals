@@ -1,5 +1,4 @@
 
-print("\n__By Mazhar Solkar \n")
 
 #pip install gensim
 import nltk
